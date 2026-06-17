@@ -1,0 +1,69 @@
+=====================P.1=======================================
+steps to solve simple equations like: 4(x-2) = 6x-10
+
+1-simplify both sides:
+	>distributing any terms within parentheses.
+		4x-8 = 6x-10
+	>combining like terms on each side of the equation.
+
+2-eliminate the smaller variable:
+	>move the smaller variable to the other side of the equation using addition or subtraction so we left with a positive variable.
+		-8 = 2x-10
+
+3-solve the remaining equation:
+	>adding, subtracting constants and dividing by coefficient to isolate the variable.
+		10-8 = 2x
+		2 = 2x
+		x = 1
+
+==========================P.2====================================
+when equation has fractions:  x/6 -x/8 = 1/8
+
+>multiply both sides by LCD(Least Common Denominator).
+	make sure to multiply every term on each side.
+		24*(x/6 - x/8) = 24*(1/8)
+		24x/6 - 24x/8 = 24/8
+		4x-3x = 3
+		x = 3
+
+=========================P.3=======================================
+when equation has a power ^:  x^2 + 5x + 6 = 0
+
+keep the variable terms on the same side.
+factoring:
+	1-Factor out the Greatest Common Factor (GCF) first.
+	2-Count the number of terms: Once you have removed any GCF, identify how many terms remain to determine which method to use:
+		>Two Terms: Check for one of these three forms:
+			* Difference of Squares: a^2 - b^2 = (a-b)(a+b).
+			* Difference of Cubes: a^3 - b^3 = (a-b)(a^2 +ab +b^2).
+			* Sum of Cubes: a^3 + b^3 = (a+b)(a^2 -ab +b^2).
+			* Note: A sum of squares (a^2 + b^2) is generally not factorable.
+		>Three Terms: use the Diamond method
+		>Four terms: factor by grouping
+			* Check if factors can be factored.
+				EX:  8a^2 - 4ab
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
