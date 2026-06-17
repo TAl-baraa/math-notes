@@ -43,6 +43,8 @@ factoring:
 			* Check if factors can be factored.
 				EX:  8a^2 - 4ab
 
+=======================P.4=========================================
+
 
 
 
