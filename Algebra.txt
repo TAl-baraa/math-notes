@@ -95,6 +95,10 @@ factoring:
 				     (3x +4)^2
 
 
+If the equation is equal to zero:
+				EX:  x^2 +5x +6 = 0
+				     (x +3)(x +2) = 0   notes that we used Diamond method
+			* If the product of two terms is = 0, then one of the terms must be 0
 
 
 
