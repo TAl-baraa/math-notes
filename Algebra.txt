@@ -1,4 +1,5 @@
-=====================P.1=======================================
+Intermediate Algebra chapter.1 professor leonard
+===========================(P.1 - P.7)==================================
 steps to solve simple equations like: 4(x-2) = 6x-10
 
 1-simplify both sides:
@@ -16,7 +17,6 @@ steps to solve simple equations like: 4(x-2) = 6x-10
 		2 = 2x
 		x = 1
 
-==========================P.2====================================
 when equation has fractions:  x/6 -x/8 = 1/8
 
 >multiply both sides by LCD(Least Common Denominator).
@@ -26,7 +26,7 @@ when equation has fractions:  x/6 -x/8 = 1/8
 		4x-3x = 3
 		x = 3
 
-=========================P.3 & P.4 & P.5==================================
+
 when equation has a power ^:  x^2 + 5x + 6 = 0
 
 keep the variable terms on the same side.
@@ -64,18 +64,35 @@ factoring:
 			/a*c \
 			
 			* (n and m) are numbers that if we multiply them we get (a.c) and if we add them we get (b). ex: if (b = -5) and (a.c = -24) then (n = -8) and (m = 3).
-				EX:  y^2-5y-24
+				EX:  y^2 -5y -24
 				     (y-8)(y+3)
 
 				---------------
-				EX:  x^2-7x+12
+				EX:  x^2 -7x + 12
 				     (x-4)(x-3)
 
+
 		>Four terms: factor by grouping.
+				EX:  5y^2 + 5 + xy^2 + x  ----->-|
+			* Try to take each two terms speretly.   |
+				     5y^ + 5 = 5(y^2 +1)         |
+				     xy^2 + x = x(y^2 +1)        |
+				     5(y^2 +1) + x(y^2 +1) <-----|
+			* Keep factoring if we can.
+				     (y^2 +1)(5 + x)
+			
+			* Sometimes, a three terms equation needs to be converted into four terms equation by spliting the middle term into two factors, then solve using grouping. This situation is when the (a) in the equation is != 1 .
+				EX:  2x^2 -5x -7  
+				     2x^2 -7x + 2x -7
+				     x(2x -7) + 1(2x -7)
+				     (2x -7)(x + 1)
 
-
-
-
+				----------------
+				EX:  9x^2 + 24x +16
+				     9x^2 +12x +12x +16
+				     3x(3x +4) + 4(3x +4)
+				     (3x +4)(3x +4)
+				     (3x +4)^2
 
 
 
